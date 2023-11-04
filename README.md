@@ -22,5 +22,6 @@ Voici les bibliothèques que vous devez installer pour utiliser ce programme :
 - collections : Bibliothèque standard pour les structures de données, pas besoin de l'installer.
 
 Voici une commande qui installera toutes les bibliothèques nécessaires qui ne sont pas déjà incluses dans la bibliothèque standard de Python :
-
+```
 pip install numpy openai pygments pyqt5
+```
